@@ -20,4 +20,75 @@ When I'm not busy being an academic guru 😌, I'm an expert in applied statisti
 
 So, yeah, that's a bit about me. Ready to learn more about me and dive into the world of numbers, tropical forests, and AI? Let's go!
 
-![https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white]({https://www.kaggle.com/cleytoncandeira})
+![gif_engraçado](http://www.ohmagif.com/2013/02/21/elephants-giving-massage-on-thailand-beach)
+
+## Contato | Contact
+<div>
+  <a href="https://www.linkedin.com/in/cleyton-candeira-50a7a6214/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="100" width="60">
+  </a>
+  <a href="https://www.kaggle.com/cleytoncandeira">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" align="center" height="100" width="60">
+  </a>
+  <a href="cleytonacandeira@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg" align="center" height="100" width="60">
+  </a>
+
+</div>
+
+
+## Linguagens | Languages
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="100" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" align="center" height="100" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" align="center" height="100" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" align="center" height="100" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" align="center" height="100" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" align="center" height="100" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" align="center" height="100" width="60">
+  
+</div>
+
+## Status | sutatS
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleytoncandeira&show_icons=true&theme=dark)
+
+## Notas de aula | Class notes
+### Coursera Courses:
+- [Using Python to Interact w/ OS (Google) 🕹️](https://github.com/cleytoncandeira/coursera_using_python_to_interact_w_os)
+- [Introduction to Git and GitHub (Google) 🏘️](https://github.com/cleytoncandeira/it-cert-automation-practice)
+- [Machine Learning Specialization (Stanford University) 🤖](https://github.com/cleytoncandeira/Machine-Learning-Specialization-Coursera)
+- [Python for Every-REAL-Everybody (University of Michigan) 🐍](https://github.com/cleytoncandeira/) 
+
+### Outros | Anothers
+
+- [Exercises 🦾🏋🏾 (Be a Data-Build Science)](https://github.com/cleytoncandeira/ds_bodybuild_exercises_py)
+
+## Projetos | Projects
+
+ - [Titanic Kaggle Challenge 🚢 (🥉🥉🥉)](https://github.com/cleytoncandeira/kaggle-challenge-titanic-survived)
+ - [My Master Degree's Research 🕵🏾‍♂️🧙🏾‍♂️ ("The Effects of Transnational Governance in the Amazon")](https://github.com/cleytoncandeira/msc_thesis_naea_ufpa)
+
+ ## Base de dados | Database
+
+ - [RTRS Brazil Database 2023 🇧🇷🤠](https://www.kaggle.com/datasets/cleytoncandeira/rtrs-brazil-public-audit-reports-2023)
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+
