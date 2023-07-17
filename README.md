@@ -20,7 +20,7 @@ When I'm not busy being an academic guru 😌, I'm an expert in applied statisti
 
 So, yeah, that's a bit about me. Ready to learn more about me and dive into the world of numbers, tropical forests, and AI? Let's go!
 
-![gif_engraçado](http://www.ohmagif.com/2013/02/21/elephants-giving-massage-on-thailand-beach)
+![Alt Text](https://64.media.tumblr.com/9c29d9aff3eb5116f54e48c976d7c858/tumblr_o26t9nFq0C1tzkxdco1_400.gif)
 
 ## Contato | Contact
 <div>
