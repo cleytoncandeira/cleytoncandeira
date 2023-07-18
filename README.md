@@ -59,7 +59,7 @@ So, yeah, that's a bit about me. Ready to learn more about me and dive into the 
 - [Using Python to Interact w/ OS (Google) 🕹️](https://github.com/cleytoncandeira/coursera_using_python_to_interact_w_os)
 - [Introduction to Git and GitHub (Google) 🏘️](https://github.com/cleytoncandeira/it-cert-automation-practice)
 - [Machine Learning Specialization (Stanford University) 🤖](https://github.com/cleytoncandeira/Machine-Learning-Specialization-Coursera)
-- [Python for Every-REAL-Everybody (University of Michigan) 🐍]([https://github.com/cleytoncandeira/](https://github.com/cleytoncandeira/coursera-python-for-everybody-specialization)) 
+- [Python for Every-REAL-Everybody (University of Michigan) 🐍](https://github.com/cleytoncandeira/coursera-python-for-everybody-specialization) 
 
 ### Outros | Anothers
 
