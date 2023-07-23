@@ -17,6 +17,9 @@ I have experience in applied statistics, and furthermore, I am keenly interested
 In my master's, I am dedicated to the preservation of tropical forests and traditional communities in the Amazon. 🌳🏞️
 
 I am eager to continue sharing more about my work! 🤝
+
+
+
 ![Alt Text](https://64.media.tumblr.com/9c29d9aff3eb5116f54e48c976d7c858/tumblr_o26t9nFq0C1tzkxdco1_400.gif)
 
 ## Contato | Contact
