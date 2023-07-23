@@ -1,25 +1,22 @@
 ## Quem sou eu?  🧐
 
-E aí, tudo bem? Eu sou Cleyton Candeira, o economista mais legal que você vai conhecer. Sobrevivi ao mundo louco dos números e me formei na Universidade Federal do Pará (UFPA). Mas espera aí, não desista de mim! Também sou estudante de mestrado em Desenvolvimento Sustentável dos Trópicos Úmidos. Sim, é um bocado de palavras, mas eu sou basicamente o rei da floresta 🌴🐊 e o melhor amigo das comunidades tradicionais.
+Olá, eu sou Cleyton Candeira, um economista formado pela Universidade Federal do Pará (UFPA) e atualmente estudante de mestrado em Desenvolvimento Sustentável dos Trópicos Úmidos. 🎓 Minha pesquisa de mestrado se concentra na aplicação de métodos de linguagem natural e Deep Learning para avaliar os efeitos da certificação não-estatal da soja na Amazônia. 🌱🌿
 
-Agora, aguenta aí, porque no meu projeto de mestrado eu aplico métodos de linguagem natural e Deep Learning. Sou como um mago 🧙🏽, só que, em vez de lançar feitiços, eu avalio os efeitos da certificação não-estatal da soja na Amazônia. É uma viagem louca! Eu poderia falar muito sobre isso, mas vamos deixar isso para outra ocasião.
+Tenho experiência em estatística aplicada e, além disso, meu foco está nos estudos de Machine Learning e Deep Learning, buscando utilizar ferramentas computacionais para automatizar tarefas e otimizar processos. 💻🔍
 
-Quando não estou ocupado sendo um guru do mundo acadêmico 😌, eu sou especialista em estatística aplicada ou, como gosto de chamá-la, da Dona Econometria. Amo analisar distribuições amostrais como ninguém. Mas isso não é tudo! Também sou obcecado por Machine Learning, Deep Learning e qualquer ferramenta computacional que me permita automatizar coisas. Dê-me um script Bash vazio e eu organizarei sua lista de convidados. Precisa de ajuda para estacionar seu carro? Sem problemas! Vou usar um algoritmo de Monte Carlo e encontrar a melhor vaga da cidade.
+No meu mestrado eu foco na preservação das florestas tropicais e das comunidades tradicionais na Amazônia. 🌳🏞️
 
-Então, sim, isso é um pouco sobre mim. Pronto para saber mais de mim e mergulhar no mundo dos números, das florestas tropicais e da IA? Simbora!
-
-## 
+Estou ansioso para continuar compartilhando mais sobre meu trabalho! 🤝
 
 ## Who am I? 🧐
 
-Hey, how's it going? I'm Cleyton Candeira, the coolest economist you'll ever meet. I survived the crazy world of numbers and graduated from the Federal University of Pará (UFPA). But hold on, don't give up on me just yet! I'm also a master's student in Sustainable Development of the Humid Tropics. Yeah, it's a bunch of words, but basically, I'm the king of the forest 🌴🐊 and the best buddy of traditional communities.
+Hello, I am Cleyton Candeira, an economist graduated from the Federal University of Pará (UFPA) and currently a master's student in Sustainable Development of the Humid Tropics. 🎓 My master's research focuses on applying natural language processing and Deep Learning methods to assess the effects of non-state certification of soy in the Amazon. 🌱🌿
 
-Now, hang tight because in my master's project, I apply natural language methods and Deep Learning. I'm like a wizard 🧙🏽, except instead of casting spells, I evaluate the effects of non-state certification of soy in the Amazon. It's a wild ride! I could talk a lot about it, but let's save that for another occasion.
+I have experience in applied statistics, and furthermore, I am keenly interested in studying Machine Learning and Deep Learning, seeking to employ computational tools to automate tasks and optimize processes. 💻🔍
 
-When I'm not busy being an academic guru 😌, I'm an expert in applied statistics, or as I like to call it, Econometrics with a capital "E." I love analyzing sampling distributions like nobody's business. But that's not all! I'm obsessed with Machine Learning, Deep Learning, and any computational tool that lets me automate things. Give me an empty Bash script, and I'll organize your guest list. Need help parking your car? No worries! I'll whip out a Monte Carlo algorithm and find the best spot in town.
+In my master's, I am dedicated to the preservation of tropical forests and traditional communities in the Amazon. 🌳🏞️
 
-So, yeah, that's a bit about me. Ready to learn more about me and dive into the world of numbers, tropical forests, and AI? Let's go!
-
+I am eager to continue sharing more about my work! 🤝
 ![Alt Text](https://64.media.tumblr.com/9c29d9aff3eb5116f54e48c976d7c858/tumblr_o26t9nFq0C1tzkxdco1_400.gif)
 
 ## Contato | Contact
