@@ -6,8 +6,6 @@ Tenho experiência em estatística aplicada e, além disso, meu foco está nos e
 
 No meu mestrado eu foco na preservação das florestas tropicais e das comunidades tradicionais na Amazônia. 🌳🏞️
 
-Estou ansioso para continuar compartilhando mais sobre meu trabalho! 🤝
-
 ## Who am I? 🧐
 
 Hello, I am Cleyton Candeira, an economist graduated from the Federal University of Pará (UFPA) and currently a master's student in Sustainable Development of the Humid Tropics. 🎓 My master's research focuses on applying natural language processing and Deep Learning methods to assess the effects of non-state certification of soy in the Amazon. 🌱🌿
@@ -15,8 +13,6 @@ Hello, I am Cleyton Candeira, an economist graduated from the Federal University
 I have experience in applied statistics, and furthermore, I am keenly interested in studying Machine Learning and Deep Learning, seeking to employ computational tools to automate tasks and optimize processes. 💻🔍
 
 In my master's, I am dedicated to the preservation of tropical forests and traditional communities in the Amazon. 🌳🏞️
-
-I am eager to continue sharing more about my work! 🤝
 
 
 
