@@ -67,7 +67,7 @@ In my master's, I am dedicated to the preservation of tropical forests and tradi
 
  - [Titanic Kaggle Challenge 🚢 (🥉🥉🥉)](https://github.com/cleytoncandeira/kaggle-challenge-titanic-survived)
  - [House Prices Challenge 🏠 (🥉🥉🥉)](https://github.com/cleytoncandeira/kaggle_house_prices_challenge)
- - [Digit Recognizer Challenge 🔢](https://github.com/cleytoncandeira/kaggle_digit_recognizer_challenge)
+ - [Digit Recognizer Challenge 🔢 (🥉🥉🥉)](https://github.com/cleytoncandeira/kaggle_digit_recognizer_challenge)
  - [My Master Degree's Research 🕵🏾‍♂️🧙🏾‍♂️ ("The Effects of Transnational Governance in the Amazon")](https://github.com/cleytoncandeira/msc_thesis_naea_ufpa)
 
  ## Base de dados | Database
