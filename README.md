@@ -1,6 +1,6 @@
 ## Quem sou eu?  🧐
 
-Olá, eu sou Cleyton Candeira, um economista formado pela Universidade Federal do Pará (UFPA) e atualmente estudante de mestrado em Desenvolvimento Sustentável dos Trópicos Úmidos. 🎓 Minha pesquisa de mestrado se concentra na aplicação de métodos de linguagem natural e Deep Learning para avaliar os efeitos da certificação não-estatal da soja na Amazônia. 🌱🌿
+Olá, eu sou Cleyton Candeira, um economista formado pela Universidade Federal do Pará (UFPA) e mestre em Desenvolvimento Sustentável dos Trópicos Úmidos. 🎓 Minha pesquisa de mestrado se concentra na aplicação de métodos de linguagem natural e Deep Learning para avaliar os efeitos da certificação não-estatal da soja na Amazônia. 🌱🌿
 
 Tenho experiência em estatística aplicada e, além disso, meu foco está nos estudos de Machine Learning e Deep Learning, buscando utilizar ferramentas computacionais para automatizar tarefas e otimizar processos. 💻🔍
 
@@ -8,7 +8,7 @@ No meu mestrado eu foco na preservação das florestas tropicais e das comunidad
 
 ## Who am I? 🧐
 
-Hello, I am Cleyton Candeira, an economist graduated from the Federal University of Pará (UFPA) and currently a master's student in Sustainable Development of the Humid Tropics. 🎓 My master's research focuses on applying natural language processing and Deep Learning methods to assess the effects of non-state certification of soy in the Amazon. 🌱🌿
+Hello, I am Cleyton Candeira, an economist graduated from the Federal University of Pará (UFPA) and master's student in Sustainable Development of the Humid Tropics. 🎓 My master's research focuses on applying natural language processing and Deep Learning methods to assess the effects of non-state certification of soy in the Amazon. 🌱🌿
 
 I have experience in applied statistics, and furthermore, I am keenly interested in studying Machine Learning and Deep Learning, seeking to employ computational tools to automate tasks and optimize processes. 💻🔍
 
