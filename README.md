@@ -1,19 +1,20 @@
 ## Quem sou eu?  🧐
 
-Olá, eu sou Cleyton Candeira, um economista formado pela Universidade Federal do Pará (UFPA) e mestre em Desenvolvimento Sustentável dos Trópicos Úmidos. 🎓 Minha pesquisa de mestrado se concentra na aplicação de métodos de linguagem natural e Deep Learning para avaliar os efeitos da certificação não-estatal da soja na Amazônia. 🌱🌿
+Olá, eu sou **Cleyton Candeira**, economista formado pela Universidade Federal do Pará (UFPA) e mestre em Desenvolvimento Sustentável dos Trópicos Úmidos. 🎓  
+**Minha pesquisa de mestrado** se concentra na aplicação de métodos de linguagem natural, Deep Learning e abordagens de LLM (Large Language Models) para avaliar os efeitos da certificação não-estatal da soja na Amazônia — um projeto fundamental na minha trajetória acadêmica.  
+Sou também um competidor ativo no **Kaggle**, onde conquistei reconhecimentos em diversos desafios de Machine Learning.  
 
-Tenho experiência em estatística aplicada e, além disso, meu foco está nos estudos de Machine Learning e Deep Learning, buscando utilizar ferramentas computacionais para automatizar tarefas e otimizar processos. 💻🔍
+Tenho experiência em estatística aplicada e foco em estudos de **Machine Learning**, **Deep Learning** e **LLM**, aproveitando ferramentas computacionais para automatizar tarefas e otimizar processos. 💻🔍  
 
-No meu mestrado eu foco na preservação das florestas tropicais e das comunidades tradicionais na Amazônia. 🌳🏞️
+---
 
 ## Who am I? 🧐
 
-Hello, I am Cleyton Candeira, an economist graduated from the Federal University of Pará (UFPA) and master's student in Sustainable Development of the Humid Tropics. 🎓 My master's research focuses on applying natural language processing and Deep Learning methods to assess the effects of non-state certification of soy in the Amazon. 🌱🌿
+Hello, I am **Cleyton Candeira**, an economist graduated from the Federal University of Pará (UFPA) and hold a master’s degree in Sustainable Development of the Humid Tropics. 🎓  
+**My master’s research** focuses on applying natural language processing, Deep Learning, and LLM (Large Language Models) approaches to assess the effects of non-state soy certification in the Amazon — a key project in my academic journey.  
+I am also an active **Kaggle** competitor, having achieved recognition in various Machine Learning challenges.  
 
-I have experience in applied statistics, and furthermore, I am keenly interested in studying Machine Learning and Deep Learning, seeking to employ computational tools to automate tasks and optimize processes. 💻🔍
-
-In my master's, I am dedicated to the preservation of tropical forests and traditional communities in the Amazon. 🌳🏞️
-
+I have experience in applied statistics and specialize in **Machine Learning**, **Deep Learning**, and **LLM**, leveraging computational tools to automate tasks and optimize processes. 💻🔍  
 
 
 ![Alt Text](https://64.media.tumblr.com/9c29d9aff3eb5116f54e48c976d7c858/tumblr_o26t9nFq0C1tzkxdco1_400.gif)
