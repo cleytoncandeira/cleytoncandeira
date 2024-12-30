@@ -72,8 +72,9 @@ I have experience in applied statistics and specialize in **Machine Learning**, 
  - [(0.8256 🌪️ BERT with Disaster Tweets(🥉🥉🥉)](https://www.kaggle.com/code/cleytoncandeira/0-8256-bert-with-disaster-tweets)
  - [My Master Degree's Research 🕵🏾‍♂️🧙🏾‍♂️ ("The Effects of Transnational Governance in the Amazon")](https://github.com/cleytoncandeira/msc_thesis_naea_ufpa)
  - [Apple from My Research: 🔎 TF-IDF and Correlations 📈 (🥉🥉🥉)](https://www.kaggle.com/code/cleytoncandeira/tf-idf-and-correlations)
- - [EDA from My Research: 🧹 EDA w/ Sentiment Analysis ✨ (🥉🥉🥉)](https://www.kaggle.com/code/cleytoncandeira/eda-w-sentiment-analysis) 
-
+ - [EDA from My Research: 🧹 EDA w/ Sentiment Analysis ✨ (🥉🥉🥉)](https://www.kaggle.com/code/cleytoncandeira/eda-w-sentiment-analysis)
+ - [Time Series: Analyzing the Construction Labor Market in the Amazon 🏗️🌳 *(RMarkdown + Jupyter Notebook)*](https://github.com/cleytoncandeira/ts_analisys_construction_labor_market)
+  
  ## Base de dados | Database
 
  - [RTRS Brazil Database 2023 🇧🇷🤠 (🥉🥉🥉)](https://www.kaggle.com/datasets/cleytoncandeira/rtrs-brazil-public-audit-reports-2023)
