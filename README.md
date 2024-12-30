@@ -74,6 +74,7 @@ I have experience in applied statistics and specialize in **Machine Learning**, 
  - [Apple from My Research: 🔎 TF-IDF and Correlations 📈 (🥉🥉🥉)](https://www.kaggle.com/code/cleytoncandeira/tf-idf-and-correlations)
  - [EDA from My Research: 🧹 EDA w/ Sentiment Analysis ✨ (🥉🥉🥉)](https://www.kaggle.com/code/cleytoncandeira/eda-w-sentiment-analysis)
  - [Time Series: Analyzing the Construction Labor Market in the Amazon 🏗️🌳 *(RMarkdown + Jupyter Notebook)*](https://github.com/cleytoncandeira/ts_analisys_construction_labor_market)
+ - [📈 Linear Regression Case for a Junior Data Scientist Selection Process 🏆](https://github.com/cleytoncandeira/regression-case-sample/tree/main)
   
  ## Base de dados | Database
 
